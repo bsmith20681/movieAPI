@@ -1,3 +1,3 @@
 module.exports = {
-  db: 'mongodb://localhost:27017/reactdb'
+  mongoURI: 'mongodb+srv://blogAdmin:<Webster20681>@movieapi-uc3bl.mongodb.net/test?retryWrites=true&w=majority'
 };
